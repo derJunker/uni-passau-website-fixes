@@ -6,5 +6,11 @@
   "action": {
     "default_popup": "popup.html",
     "default_icon": "zebra.png"
-  }
+  },
+  "content_scripts": [
+    {
+      "matches": ["https://*.online.sportz.uni-passau.de/*"],
+      "css": ["sports.css"]
+    }
+  ]
 }
