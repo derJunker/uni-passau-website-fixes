@@ -1,0 +1,10 @@
+.ui-dialog.ui-corner-all.ui-widget.ui-widget-content.ui-front.studip-dialog.ui-dialog-buttons.ui-draggable.ui-resizable {
+    width: 95%!important;
+    height: 95%!important;
+    top: 2.5%!important;
+    left: 2.5%!important;
+}
+
+.ui-dialog.ui-corner-all.ui-widget.ui-widget-content.ui-front.studip-dialog.ui-dialog-buttons.ui-draggable.ui-resizable .ui-dialog-content.ui-widget-content {
+    height: inherit!important;
+}

@@ -11,6 +11,10 @@
     {
       "matches": ["https://*.online.sportz.uni-passau.de/*"],
       "css": ["sports.css"]
+    },
+    {
+      "matches": ["https://*.studip.uni-passau.de/*"],
+      "css": ["studip.css"]
     }
   ]
 }
