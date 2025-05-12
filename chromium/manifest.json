@@ -1,0 +1,10 @@
+{
+  "name": "Uni Passau Website Improvements",
+  "description": "Fixing the quirks of the Uni Passau",
+  "version": "1.0",
+  "manifest_version": 3,
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": "zebra.png"
+  }
+}
