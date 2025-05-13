@@ -3,8 +3,15 @@
     height: 95%!important;
     top: 2.5%!important;
     left: 2.5%!important;
+    display: flex;
+    flex-direction: column;
 }
 
 .ui-dialog.ui-corner-all.ui-widget.ui-widget-content.ui-front.studip-dialog.ui-dialog-buttons.ui-draggable.ui-resizable .ui-dialog-content.ui-widget-content {
     height: inherit!important;
+}
+
+.ui-dialog .ui-dialog-content {
+    max-height: 80vh!important;
+    height: auto!important;
 }
